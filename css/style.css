@@ -1,0 +1,89 @@
+
+body {
+  height: 100%;
+  font-family: "New Roman", serif;
+  background-color: #FC4A1A;
+}
+
+.container-fluid {
+  text-align: center;
+  overflow: auto;
+  padding-top: 80px;
+}
+
+#quote-display {
+  max-width: 550px;
+  background-color: #4ABDAC;
+  color: #ffffff;
+  margin: 20px;
+  padding: 10px;
+  display: inline-block;
+  position: relative;
+}
+
+button {
+  background-color: #F78733;
+  margin: 30px;
+  text-align: center;
+} 
+
+.btn-twitter {
+  background: #00acee;
+  border-radius: 5px;
+  color: #fff
+}
+
+
+/*
+.btn button {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+}
+*/
+
+#quote-speaker {
+  font: cursive;
+}
+
+h1 {
+    font-family: Georgia sans-serif;
+}
+
+h2 {
+font-family: 
+  "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+em h3 {
+  background-color: pink;
+  text-align: right;
+  margin-right: -50%;
+  border-width: 5px;
+  font-family: "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+
+#twitter {
+  height: 30px;
+  width: 40px;
+}
+
+.fa-twitter {
+  color: #fff;
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 1.5em;
+}
+
+#newQuoteButton  {
+  width: auto;
+  float: right;
+}
+
+footer {
+  align: center;
+  color: #222;
+}
+
+.footer center a {
+  color: #222;
+}
